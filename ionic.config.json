@@ -1,0 +1,7 @@
+{
+  "name": "rxJsExOnIonicAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
